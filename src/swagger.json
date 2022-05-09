@@ -1,0 +1,17 @@
+{
+    "openapi": "3.0.2",
+    "info": {
+        "title": "challenge-bravo",
+        "version": "1.0.0",
+        "description": "Challenge Bravo",
+        "contact": {
+            "name": "Carlos Henrique",
+            "url": "https://github.com/dev-rodrigues/challenge-bravo",
+            "email": "carlos.hrq.rodrigues@gmail.com"
+        },
+        "license": {
+            "name": "GNU AGPLv3",
+            "url": "https://www.gnu.org/licenses/agpl.txt"
+        }
+    }
+}
